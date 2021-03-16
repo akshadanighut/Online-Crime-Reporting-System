@@ -16,6 +16,10 @@ body
     margin:auto;
     overflow:auto;
 }
+.abc
+{
+    color:white !important;
+}
 ul
 {
     margin:0;

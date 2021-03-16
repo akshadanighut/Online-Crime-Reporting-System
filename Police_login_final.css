@@ -28,6 +28,10 @@ li{
     display:inline-block;
 
 }
+.abc
+{
+    color:white !important;
+}
 a:link
 {
     color:white;

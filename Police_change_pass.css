@@ -9,6 +9,10 @@ body
     height:200px;
     margin:auto;
 }
+.abc
+{
+    color:white !important;
+}
 .nav
 {
     width:100%;
@@ -55,25 +59,26 @@ a:hover
     margin-top:25px;
     padding:20px;
     font-family:sans-serif;
+    color:white;
 }
 .name
 {
     margin-top:60px;
-    margin-left:30%;
+    margin-left:35%;
     font-size:20px;
     transition:0.4s;
 }
 .name2
 {
     margin-top:60px;
-    margin-left:30%;
+    margin-left:35%;
     font-size:20px;
     transition:0.4s;
 }
 .submit-btn
 {
     margin-top:60px;
-    margin-left:38%;
+    margin-left:43%;
     width:15%;
     padding: 10px 30px;
     cursor:pointer;

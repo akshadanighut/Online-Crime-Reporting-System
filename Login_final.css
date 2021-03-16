@@ -25,7 +25,9 @@ ul
     margin:0;
     padding:5px;
     list-style:none;
-    
+}
+.abc{
+    color:white !important;
 }
 li{
    
