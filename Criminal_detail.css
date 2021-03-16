@@ -1,0 +1,29 @@
+.MWC
+{
+    text-align:center;
+    background-color:blue;
+    padding:10px;
+    font-size:25px;
+    margin-top:30px;
+}
+table
+{
+    margin-top:70px;
+}
+.sub-btn
+{
+    padding:5px;
+    width:60px;
+    font-size:18px;
+    margin-top:20px;
+}
+#name
+{
+    padding:8px;
+}
+td
+{
+    font-size:18px;
+    font-family:sans-serif;
+    padding:8px;
+}
